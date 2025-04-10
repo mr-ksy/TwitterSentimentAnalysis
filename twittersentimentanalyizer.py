@@ -18,7 +18,7 @@ import re
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-#----------Twiter api credentials----------
+#----------Sample Twiter api credentials----------
 c_key = 'cRjT9hq0hpoHjpCYM9c8XGTQe'
 c_secret = '6he7tK6KH4A1oqVqiu3djCgpu1dtCHXijftKoVfIkyGdY2vUWi'
 a_key = '740485466382868480-P9COIlo5B3ddDlndomlmWCyd1TvDRW1'
